@@ -18,3 +18,6 @@ It’s lightweight, structured, and ready to be styled or converted into a portf
 git clone https://github.com/BarcelosGabriel/simple-page-cv
 cd simple-page-cv
 open cv.html
+
+## validation
+https://roadmap.sh/projects/single-page-cv
